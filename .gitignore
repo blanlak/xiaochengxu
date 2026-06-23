@@ -1,0 +1,23 @@
+# 微信小程序 - Git 忽略规则
+
+# Node
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 微信开发者工具私密配置
+project.private.config.json
+
+# 本地临时文件
+*.local.*
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
