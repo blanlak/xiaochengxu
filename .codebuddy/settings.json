@@ -1,0 +1,8 @@
+{
+  "codebuddy": {
+    "sandbox": {
+      "allowedCommands": ["git"],
+      "allowedPrefixes": ["git add", "git commit", "git push", "git pull", "git status", "git log", "git branch", "git remote", "git checkout", "git reset", "git diff", "git merge", "git stash", "git config", "git clone", "git init", "git rm", "git mv", "git fetch", "git rebase", "git tag", "git show", "git describe", "git clean", "git cherry-pick", "git revert"]
+    }
+  }
+}

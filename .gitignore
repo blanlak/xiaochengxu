@@ -12,8 +12,9 @@ node_modules/
 # 微信开发者工具私密配置
 project.private.config.json
 
-# 本地临时文件
+# 本地临时文件（排除 .local. 的本地配置文件）
 *.local.*
+!.claude/settings.local.json
 
 # 操作系统
 .DS_Store
